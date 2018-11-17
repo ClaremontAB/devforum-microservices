@@ -7,7 +7,7 @@ Aggregates the result from other Clarenews APIs
 * Clarenews Sport API
 * Clarenews Kultur API
 
-### Clone the repo and install dependencies
+### Clone the repo and build application
 ```
 $ git clone git@github.com:ClaremontAB/devforum-microservices.git
 $ cd devforum-microservices/net-clarenews/Clarenews
@@ -18,4 +18,4 @@ $ dotnet build
 ```
 $ dotnet run
 ```
-After server has been started, visit `localhost` in your web browser.
+After server has been started, visit `localhost:8080/swagger` in your web browser to access Swagger API documentation.
