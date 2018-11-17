@@ -18,4 +18,4 @@ $ dotnet build
 ```
 $ dotnet run
 ```
-After server has been started, visit `localhost:8080/swagger` in your web browser to access Swagger API documentation.
+After server has been started, visit `localhost:5223/swagger` in your web browser to access Swagger API documentation.
